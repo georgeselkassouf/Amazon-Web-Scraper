@@ -2,8 +2,13 @@
 
 ## Libraries
 Pandas
+
 Beautiful Soup
-Requests, Time
+
+Requests
+
+Time
+
 Smtplib
 
 ## Description
