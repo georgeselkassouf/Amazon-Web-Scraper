@@ -1,9 +1,9 @@
 # Amazon Web Scraper
 
 ## Libraries
-pandas
-
 BeautifulSoup
+
+pandas
 
 requests
 
