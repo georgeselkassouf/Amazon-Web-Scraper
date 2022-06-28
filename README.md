@@ -1,13 +1,17 @@
 # Amazon Web Scraper
 
 ## Libraries
-Pandas
+pandas
 
-Beautiful Soup
+BeautifulSoup
 
-Requests
+requests
 
-Time
+time
+
+datetime
+
+smtplib
 
 ## Description
 This project scrapes the name and price of a given item from Amazon using Beautiful Soup.
