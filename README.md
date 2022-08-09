@@ -16,7 +16,7 @@ smtplib
 csv
 
 ## Description
-This project scrapes the name and price of a given item from Amazon using Beautiful Soup.
+This project retrieves the name and price of a given item from Amazon using Beautiful Soup.
 
 Using a while loop, the function will run each 1 day to get the price.
 
