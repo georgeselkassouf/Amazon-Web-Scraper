@@ -13,7 +13,6 @@ datetime
 
 smtplib
 
-csv
 
 ## Description
 This project retrieves the name and price of a given item from Amazon using Beautiful Soup.
